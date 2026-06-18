@@ -1,0 +1,37 @@
+[
+  {
+    "_id": "5e1bf501f18dbe8b75e402d8",
+    "createdAt": "2026-06-18T13:49:55.341Z",
+    "updatedAt": "2026-06-18T13:50:01.497Z",
+    "name": "Google User",
+    "email": "google_user@auroraboard.com",
+    "password": "$2a$10$GHzFsIDyRwcuairRWqnoJ.ehgw7v8IBpV3rTZU254T.ve/IoZdwoa",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=150&h=150&q=80",
+    "isVerified": true,
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjVlMWJmNTAxZjE4ZGJlOGI3NWU0MDJkOCIsImlhdCI6MTc4MTc5MDYwMSwiZXhwIjoxNzgyMzk1NDAxfQ.TirVUOkhXbvm8LkyvjO04FehGJ31NXDub2Z5qq_R9aY"
+  },
+  {
+    "_id": "d53977b8b7aa1582e93cea9c",
+    "createdAt": "2026-06-18T13:50:38.468Z",
+    "updatedAt": "2026-06-18T13:59:20.695Z",
+    "name": "Priyan Mahesh",
+    "email": "priyanmahesh09@gmail.com",
+    "password": "$2a$10$LBv/AKd4Kp/qa.AT2DA1LOenLYGMnupkFMew3SYxvE.N8fBs03C7W",
+    "role": "User",
+    "isVerified": false,
+    "verificationToken": "0a276213bcaf5729ee4dfe2b9b34ae21bef44db2",
+    "refreshToken": ""
+  },
+  {
+    "_id": "69b38cca19979bd0e43c2a79",
+    "createdAt": "2026-06-18T13:56:05.620Z",
+    "updatedAt": "2026-06-18T13:56:38.328Z",
+    "name": "Tester",
+    "email": "tester2026@aurora.com",
+    "password": "$2a$10$cRmcwQIJYgJJ4M9tXiD1leg1eDBv6sYjvqm92nardEGHhG1ouEZC.",
+    "role": "User",
+    "isVerified": false,
+    "verificationToken": "100f2910bf0f37e2cf83023c97df4f03b49b78c8",
+    "refreshToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5YjM4Y2NhMTk5NzliZDBlNDNjMmE3OSIsImlhdCI6MTc4MTc5MDk5OCwiZXhwIjoxNzgyMzk1Nzk4fQ.9MRtDAqLAjibawc7tMjzfzANYOaagnoQwGzPNewzfEY"
+  }
+]

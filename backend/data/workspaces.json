@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "2ed2b7c02e60065bff463c55",
+    "createdAt": "2026-06-18T13:49:55.347Z",
+    "updatedAt": "2026-06-18T13:49:55.347Z",
+    "name": "Google User's Workspace",
+    "icon": "🏠",
+    "owner": "5e1bf501f18dbe8b75e402d8",
+    "members": [
+      {
+        "user": "5e1bf501f18dbe8b75e402d8",
+        "role": "Admin"
+      }
+    ]
+  },
+  {
+    "_id": "8f44b77f6804f90e455d1e7b",
+    "createdAt": "2026-06-18T13:50:38.469Z",
+    "updatedAt": "2026-06-18T13:50:38.469Z",
+    "name": "Priyan Mahesh's Workspace",
+    "icon": "🏠",
+    "owner": "d53977b8b7aa1582e93cea9c",
+    "members": [
+      {
+        "user": "d53977b8b7aa1582e93cea9c",
+        "role": "Admin"
+      }
+    ]
+  },
+  {
+    "_id": "f7f2eb320ff763e78809a521",
+    "createdAt": "2026-06-18T13:56:05.627Z",
+    "updatedAt": "2026-06-18T13:56:05.627Z",
+    "name": "Tester's Workspace",
+    "icon": "🏠",
+    "owner": "69b38cca19979bd0e43c2a79",
+    "members": [
+      {
+        "user": "69b38cca19979bd0e43c2a79",
+        "role": "Admin"
+      }
+    ]
+  }
+]
